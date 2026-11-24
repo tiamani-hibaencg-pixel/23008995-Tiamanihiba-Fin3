@@ -1,0 +1,32 @@
+# Déclaration d'utilisation de l'intelligence artificielle (IA)
+
+**Titre du travail / document :** Modèle à trois facteurs de Fama-French  
+**Auteur / Étudiant :** hiba tiamani
+**Cours / Projet / Contexte :** [DS]    
+
+---
+
+## 1. Résumé de l'utilisation
+L'intelligence artificielle générative (ex. : Gemini) a été utilisée comme outil d'assistance et de structuration dans le cadre de ce travail, sous la supervision et la validation complètes de l'auteur. L'ensemble des analyses finales, choix méthodologiques, vérifications factuelles et conclusions relèvent de la responsabilité de l'auteur.
+
+## 2. Nature des tâches assistées par l'IA
+Cochez ou conservez les éléments pertinents :
+
+- [x] **Clarification conceptuelle :** explication du cadre théorique du modèle à trois facteurs de Fama-French (facteur de marché $R_m - R_f$, taille *SMB* et valeur *HML*) et de ses liens avec le MEDAF / CAPM.
+- [ ] **Structuration et planification :** aide à l'organisation du plan, des sections ou de la mise en forme du document.
+- [ ] **Rédaction / reformulation :** amélioration de la clarté, de la syntaxe ou de la mise en forme Markdown/LaTeX.
+- [ ] **Code / analyse quantitative :** aide à l'écriture ou au débogage de scripts/formules (les résultats numériques et données doivent être vérifiés par l'auteur).
+- [ ] **Relecture critique :** identification de points à approfondir ou de formulations ambiguës.
+
+## 3. Ce qui n'a PAS été délégué à l'IA
+- La validation des données financières, sources académiques et résultats empiriques.
+- L'interprétation critique finale des coefficients, régressions ou limites du modèle.
+- La garantie d'exactitude sans vérification préalable par l'auteur.
+
+## 4. Outils utilisés et périmètre
+- **Outil(s) :** [Nom de l'outil IA, ex. : Gemini]
+- **Type d'interactions :** questions conceptuelles, structuration, aide à la rédaction/mise en forme.
+
+## 5. Engagement de l'auteur
+Je certifie que cette déclaration reflète de manière transparente l'utilisation faite de l'IA pour ce document et que j'assume l'entière responsabilité du contenu final remis.
+
